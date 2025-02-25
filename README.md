@@ -1,2 +1,9 @@
 # ASPNET-DK23TTC10-vothikieuloan-DEMO
 Nghiên cứu cơ sở lý thuyết
+# Phân tích thiết kế hệ thống
+- Phân tích yêu cầu đề tài website bán cafe thức uống
+- Phân tích luồng dữ liệu
+- phân tích các thực thể
+- phân tích các mô hình quan hệ giữa các thực thể
+- Tạo data base cho web
+# Viết code asp.net cho web
