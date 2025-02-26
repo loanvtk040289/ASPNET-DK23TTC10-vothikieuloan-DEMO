@@ -1,5 +1,5 @@
 # ASPNET-DK23TTC10-vothikieuloan-DEMO
-# Giáo viên Hướng dẫn: 
+# Giáo viên Hướng dẫn: ThS. Đoàn Phước Miền
 
 # Sinh viên: Võ Thị Kiều Loan
 # Lớp: DK23TTC10
