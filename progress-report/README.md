@@ -23,3 +23,7 @@
 
 23/02/2025
 #Viết code asp.net cho web
+
+23/02/2025
+#Nghiên cứu tham khảo thêm để hoàn thiện websiet
+https://www.youtube.com/playlist?list=PL2_xbcFZM80POLEVdXgTgj3vZ-_kO34_n
